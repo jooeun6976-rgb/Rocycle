@@ -1,0 +1,12 @@
+# Local environment files and secrets
+**/.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# ROS2 workspace build outputs
+build/
+install/
+log/
